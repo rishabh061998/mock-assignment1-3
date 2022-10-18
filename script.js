@@ -13,7 +13,7 @@ completedata.data.map((values)=>{
         <div class="imagediv">
         <img src="menslogo.png"alt="profile logo" />
         </div>
-        <p class="name"> Name: ${values.first_name}</p>
+        <p class="name">Player Name: ${values.first_name}</p>
         <p class="category">Position: ${values.position}</p>
         <button>Click Here to get player details </button>
     </div>`
